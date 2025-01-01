@@ -1,4 +1,0 @@
-# Ignore following folders
-
-# Ignore all log files
-*.pdf
