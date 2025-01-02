@@ -15,8 +15,13 @@
 
 ### Task Categories
 2.1 Data Preprocessing and Basic Analysis 
+
 2.2 Visualization and Exploratory Analysis
+
 2.3 Probability Analysis
+
 2.4 Statistical Theory Applications
+
 2.5 Regression Analysis
+
 3   Report
