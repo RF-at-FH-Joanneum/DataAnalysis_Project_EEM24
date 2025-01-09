@@ -9,6 +9,8 @@
 
 ├───source: code used for creation of this project
 
+├───visu_prob: .pdf files of plotted tables for probability analysis
+
 ├───visu_processed: .pdf files of plotted figures
 
 └───visu_raw: pandas description of datasets and .pdf files of plotted figures
